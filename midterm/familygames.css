@@ -1,0 +1,19 @@
+
+
+div {
+  background-color : Azure;
+}
+h1{
+  cursor: auto;
+  color: black;
+}
+h3{
+  color: red;
+}
+p {
+  text-align: center;
+  color: grey;
+}
+strong{
+  color: lightblue;
+}

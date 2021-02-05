@@ -1,0 +1,30 @@
+<style>
+
+
+div {
+  border: 1px solid black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+p {
+  text-align: center;
+  color: grey;
+}
+
+
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+h2 {
+  text-align: center;
+  color: #5d443d;
+}
+h6 {
+  margin: 25px 50px 75px 100px;
+}
+</style>
